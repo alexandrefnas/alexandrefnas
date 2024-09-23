@@ -9,6 +9,8 @@ Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=blue)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-563D7C?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -20,8 +22,6 @@ Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 ##
 ###  Estudando Atualmente:
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
 [![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-000?style=for-the-badge)]()&nbsp;
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
