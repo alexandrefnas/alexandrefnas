@@ -1,9 +1,21 @@
 ##
 # 👋 Olá, me chamo Alexandre!
+
+### Sobre mim
 Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
+Estou em processo de transição de carreira.
 
-###  Habilidades 🛠:
+Já trabalhei como professor de informática, ministrando cursos do pacote office durante cinco anos.
+
+Trabalhei com Analista de produção e supervisor de produção na BRF, por um período de 10 anos.
+
+
+
+
+
+##
+###  Hard Skills 💻:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -31,6 +43,16 @@ Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrefnas&theme=transparent&bg_color=#556b2f&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrefnas&bg_color=#556b2f&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+##
+###  Soft Skills 📚:
+Analisando minha tragetória profissional e pessoal, acredito que minhas maiores soft skills são:
+- Trabalho em Equipe.
+- liderança.
+- Proativo.
+- Comunicativo.
+- Pensamento Analítico.
+- Aprendizado Contínuo
+  
 ##
 ###  Você pode me encontrar em:
 
