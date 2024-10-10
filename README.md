@@ -33,9 +33,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrefnas&theme=transparent&bg_color=#556b2f&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrefnas&bg_color=#556b2f&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<div align="left">
+    <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
+    <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api/top-langs?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
+</div>
 ##
 ###  Habilidades Interpessoais (Soft Skills) 📚:
 Analisando minha tragetória profissional e pessoal, acredito que minhas maiores soft skills são:
