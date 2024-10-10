@@ -37,6 +37,7 @@
     <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
     <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api/top-langs?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
 </div>
+
 ##
 ###  Habilidades Interpessoais (Soft Skills) 📚:
 Analisando minha tragetória profissional e pessoal, acredito que minhas maiores soft skills são:
