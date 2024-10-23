@@ -33,9 +33,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-<div align="left">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
+<div width="100%" align="left" justify="center">  
+  <a href="https://github.com/alexandrefnas">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexandrefnas&bg_color=f8f1f1&show_icons=true" alt="Alexandre"/>
+    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefnas&layout=compact&bg_color=f8f1f1&show_icons=true" alt="Alexandre"/>
 </div>
 
 ##
