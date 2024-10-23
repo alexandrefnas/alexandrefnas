@@ -34,8 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 <div align="left">
-    <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
-    <img height="200em" src="https://github-readme-stats-ten-chi-54.vercel.app/api/top-langs?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefnas&show_icons=true&theme=transparent" alt="Alexandre"/>
 </div>
 
 ##
