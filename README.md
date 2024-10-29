@@ -5,7 +5,7 @@
 - Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - Estou em processo de transição de carreira.
 - Já trabalhei como professor de informática, ministrando cursos do pacote office durante cinco anos.
-- Trabalhei com Analista de produção e supervisor de produção na BRF, por um período de 10 anos.
+- Trabalhei como Analista de produção e supervisor de produção na BRF, por um período de 10 anos.
 
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
@@ -16,6 +16,10 @@
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=blue)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp; 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp; 
+
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-563D7C?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -29,9 +33,6 @@
 ###  Estudando Atualmente:
 [![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-000?style=for-the-badge)]()&nbsp;
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp; 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 <div width="100%" align="left" justify="center">  
   <a href="https://github.com/alexandrefnas">
