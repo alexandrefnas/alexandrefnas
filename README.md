@@ -13,13 +13,14 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=blue)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp; 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp; 
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-563D7C?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -33,6 +34,7 @@
 ###  Estudando Atualmente:
 [![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-000?style=for-the-badge)]()&nbsp;
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div width="100%" align="left" justify="center">  
   <a href="https://github.com/alexandrefnas">
