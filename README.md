@@ -3,9 +3,8 @@
 
 ### Sobre mim (About me) 👨‍💻:
 - Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- Estou em processo de transição de carreira.
-- Já trabalhei como professor de informática, ministrando cursos do pacote office durante cinco anos.
-- Trabalhei como Analista de produção e supervisor de produção na BRF, por um período de 10 anos.
+- Sou um profissional dedicado e organizado, com excelente senso de lógica e facilidade para aprender novas tecnologias e ferramentas. 
+-Tenho experiência tanto no desenvolvimento Back-end quanto Front-end, o que me permite atuar de forma integrada em projetos completos. 
 
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
