@@ -4,7 +4,7 @@
 ### Sobre mim (About me) 👨‍💻:
 - Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - Sou um profissional dedicado e organizado, com excelente senso de lógica e facilidade para aprender novas tecnologias e ferramentas. 
--Tenho experiência tanto no desenvolvimento Back-end quanto Front-end, o que me permite atuar de forma integrada em projetos completos. 
+- Tenho experiência tanto no desenvolvimento Back-end quanto Front-end, o que me permite atuar de forma integrada em projetos completos. 
 
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
