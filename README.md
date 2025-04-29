@@ -8,23 +8,24 @@
 
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=5C2D91)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=DD8A00)&nbsp;
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp; 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp; 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![C++](https://img.shields.io/badge/C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=DD8A00)&nbsp;
+![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=5C2D91)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=DD8A00)&nbsp;
+[![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=E94D5F)]()&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=30A3DC)]()&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp; 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
+![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp; 
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-563D7C?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-E34F26?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Sublime](https://img.shields.io/badge/-sublime-FF9800?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ##
 ### Sistemas Operacionais:
@@ -32,9 +33,9 @@
 
 ##
 ###  Estudando Atualmente:
-[![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-000?style=for-the-badge)]()&nbsp;
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-323330?style=for-the-badge)]()&nbsp;
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div width="100%" align="left" justify="center">  
   <a href="https://github.com/alexandrefnas">
@@ -55,9 +56,9 @@ Analisando minha tragetória profissional e pessoal, acredito que minhas maiores
 ##
 ###  Você pode me encontrar em:
 
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-000?informational?style=for-the-badge&logo=gitbook&logoColor=blue)](https://www.dio.me/users/alexandrefnas)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?informational?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandre-fernandes-do-nascimento-2749092b6/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-alexandrefnas@gmail.com-000?informational?style=for-the-badge&logo=Gmail&logoColor=red&ink=mailto:alexandrefnas@gmail.com)](mailto:alexandrefnas@gmail.com)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-000?informational?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/alexandrefnas)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?informational?style=for-the-badge&logo=whatsapp&logoColor=2CA5E0)](https://wa.me/5534984093426)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-323330?informational?style=for-the-badge&logo=gitbook&logoColor=blue)](https://www.dio.me/users/alexandrefnas)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-323330?informational?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandre-fernandes-do-nascimento-2749092b6/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-alexandrefnas@gmail.com-323330?informational?style=for-the-badge&logo=Gmail&logoColor=red&ink=mailto:alexandrefnas@gmail.com)](mailto:alexandrefnas@gmail.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-323330?informational?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/alexandrefnas)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-323330?informational?style=for-the-badge&logo=whatsapp&logoColor=2CA5E0)](https://wa.me/5534984093426)
 ##
