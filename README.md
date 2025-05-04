@@ -8,6 +8,7 @@
 
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
+#### Linguagem de programação
 ![C++](https://img.shields.io/badge/C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=DD8A00)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=5C2D91)&nbsp;
@@ -17,18 +18,23 @@
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 ![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp; 
+####
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js)&nbsp;
 
+#### IDEs
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-563D7C?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-E34F26?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Sublime](https://img.shields.io/badge/-sublime-FF9800?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-eclipse-FF9800?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-##
-### Sistemas Operacionais:
+#### Outros
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-E34F26?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+####
+#### Sistemas Operacionais:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ##
