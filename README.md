@@ -6,6 +6,14 @@
 - Sou um profissional dedicado e organizado, com excelente senso de lógica e facilidade para aprender novas tecnologias e ferramentas. 
 - Tenho experiência tanto no desenvolvimento Back-end quanto Front-end, o que me permite atuar de forma integrada em projetos completos. 
 
+### Minha inspiração 🚀:
+- Minha inspiração na área da tecnologia vem da possibilidade de transformar ideias em soluções reais que impactam a vida das pessoas. 
+- Sempre fui motivado pela lógica e pela resolução de problemas, e a tecnologia me oferece um campo vasto para aplicar esse raciocínio de forma criativa e eficiente. 
+- O que mais me inspira é o dinamismo da área: sempre há algo novo para aprender, novas ferramentas para explorar e desafios para superar. 
+- Ver uma aplicação funcionando, saber que contribui para aquilo desde o back-end até a interface que o usuário final vê, é extremamente gratificante para mim. 
+- Além disso, admiro muito a cultura colaborativa da comunidade tech.
+- Compartilhar conhecimento, boas práticas e buscar constantemente a evolução me mantém engajado e inspirado todos os dias.
+
 ##
 ###  Habilidades Técnicas (Hard Skills) 💻:
 #### Linguagem de programação
