@@ -6,7 +6,7 @@
 - Sou um profissional dedicado e organizado, com excelente senso de lógica e facilidade para aprender novas tecnologias e ferramentas. 
 - Tenho experiência tanto no desenvolvimento Back-end quanto Front-end, o que me permite atuar de forma integrada em projetos completos. 
 
-### Minha inspiração 🚀:
+### O que me Move na Tecnologia 🚀:
 - Minha inspiração na área da tecnologia vem da possibilidade de transformar ideias em soluções reais que impactam a vida das pessoas. 
 - Sempre fui motivado pela lógica e pela resolução de problemas, e a tecnologia me oferece um campo vasto para aplicar esse raciocínio de forma criativa e eficiente. 
 - O que mais me inspira é o dinamismo da área: sempre há algo novo para aprender, novas ferramentas para explorar e desafios para superar. 
